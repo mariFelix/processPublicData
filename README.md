@@ -189,11 +189,16 @@ Type the number of thread(s) you want to use for Bowtie2, followed by [ENTER] :
 Type the number of aln per read you want to allow for Bowtie2, followed by [ENTER] :
 ```
 
+```
+Running Bowtie2 alignment for file SRRXXXXXXX.fastq.gz...
+Alignment file SRRXXXXXXX_aln.bam created !
+Sorting file SRRXXXXXXX_aln.bam by chromosomal coordinates...
+Alignment file SRRXXXXXXX_sorted-kX.bam created !
+Creating index for file SRRXXXXXXX_sorted-kX.bam...
+Index file SRRXXXXXXX_sorted-kX.bam.bai created !
+```
+
 When the file(s) is/are processed the following message will appear :
-
-```
-
-```
 
 ```
 
