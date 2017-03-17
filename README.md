@@ -236,24 +236,12 @@ Enter path to the folder where Bowtie2 is (ex: /usr/local/software/bowtie2-2.2.9
 Type the number of thread(s) you want to use for Bowtie2 (x4), followed by [ENTER] :
 ```
 
-```
+When the file(s) is/are processed the following message will appear :
 
 ```
-
+--------------------------------------------------------
+Bismark alignment, sorting, indexing and methExtract done in X hours X minutes X seconds !
 ```
-
-```
-
-```
-
-```
-
-
-
-
-
-
-
 
 ## OUTPUT FILES
 
