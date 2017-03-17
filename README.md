@@ -41,6 +41,35 @@ processWGBSdata :
 
 ## HOW TO USE IT
 
+To run the scripts do :
+
+```
+./downloadPublicData_v2.2.sh 
+```
+
+```
+Enter your output folder name, followed by [ENTER] :
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+
+
+
+
 
 
 ## OUTPUT FILES
