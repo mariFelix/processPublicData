@@ -47,6 +47,8 @@ To run the scripts do :
 ./downloadPublicData_v2.2.sh 
 ```
 
+Then follow the instructions :
+
 ```
 Enter your output folder name, followed by [ENTER] :
 ```
@@ -61,19 +63,20 @@ Type the number of SRA dataset(s) you want to download, followed by [ENTER] :
 
 ```
 Enter your dataset name #X, followed by [ENTER] :
+...
 ```
+When the file(s) is/are downloaded the following message will appear :
 
 ```
 Dowloading SRRXXXXXXX to fastq.gz format...
-```
-
-```
 Dataset SRRXXXXXXX downloaded !"
+...
 ```
     
 ```
 Quality check for file SRRXXXXXXX.fastq.gz...
 Quality check done for file SRRXXXXXXX.fastq.gz
+...
 ```
 
 
