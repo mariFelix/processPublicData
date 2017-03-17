@@ -86,7 +86,7 @@ Quality check done for file SRRXXXXXXX.fastq.gz
 To run the scripts do :
 
 ```
-/trimmingPublicData_v2.sh
+./trimmingPublicData_v2.sh
 ```
 
 Then follow the instructions :
@@ -156,6 +156,35 @@ If the quality check analysis is not right, you can re-run this script with othe
 ```
 
 ###### alignPublicData
+
+```
+./alignPublicData.sh
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
 
 ###### processWGBSdata
 
