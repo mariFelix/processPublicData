@@ -52,15 +52,19 @@ Enter your output folder name, followed by [ENTER] :
 ```
 
 ```
+Does the sequencing of your data is single end (SE) or paired end (PE) ? [SE|PE] :
 ```
 
 ```
+Type the number of SRA dataset(s) you want to download, followed by [ENTER] :
 ```
 
 ```
+Enter your dataset name #X, followed by [ENTER] :
 ```
 
 ```
+Dowloading SRRXXXXXXX to fastq.gz format...
 ```
 
 ```
