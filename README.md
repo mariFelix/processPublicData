@@ -157,25 +157,39 @@ If the quality check analysis is not right, you can re-run this script with othe
 
 ###### alignPublicData
 
+To run the scripts do :
+
 ```
 ./alignPublicData.sh
 ```
 
+Then follow the instructions :
+
+```
+Enter your input folder name, followed by [ENTER] :
 ```
 
 ```
-
+Enter your output folder name, followed by [ENTER] :
 ```
 
 ```
-
+Does the sequencing of your data is single end (SE) or paired end (PE) ? [SE|PE] :
 ```
 
 ```
-
+Enter path to the indexed reference genome basename (i.e. for Mm10.1.bt2 etc.: /path/to/index/Mm10), followed by [ENTER] :
 ```
 
 ```
+Type the number of thread(s) you want to use for Bowtie2, followed by [ENTER] :
+```
+
+```
+Type the number of aln per read you want to allow for Bowtie2, followed by [ENTER] :
+```
+
+When the file(s) is/are processed the following message will appear :
 
 ```
 
