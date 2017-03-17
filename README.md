@@ -135,7 +135,25 @@ Type the path to the adapter file ex: /home/App/Trimmomatic-0.33/adapters/TruSeq
 Do you want to change the ILLUMINACLIP settings ? (Default : ILLUMINACLIP:adapterFile:2:30:10) [yes|no] :
 ```
 
+```
+Running Trimmomatic trimming for file SRRXXXXXXX.fastq.gz...
+Quality check for file SRRXXXXXXX.fastq.gz...
+Quality check done for file SRRXXXXXXX.fastq.gz !
+```
 
+When the file(s) processed the following message will appear :
+
+```
+Trimmomatic trimming and FastQC analysis done in X hours X minutes X seconds !
+
+If the quality check analysis is not right, you can re-run this script with other parameters ! :)
+--------------------------------------------------------
+[TIP] : You will may want to change the minimum score for LEADING or TRAILING option.
+[TIP] : You will may want to change the Adapter file.
+[TIP] : You will may want to change the ILLUMINACLIP settings.
+         - min score for palindrome match should be in the range of 30 (up to 50)
+         - min score for simple match should be between 7 and 15
+```
 
 ###### alignPublicData
 
