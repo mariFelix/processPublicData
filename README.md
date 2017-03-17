@@ -83,6 +83,60 @@ Quality check done for file SRRXXXXXXX.fastq.gz
 
 ###### trimmingPublicData_v2
 
+To run the scripts do :
+
+```
+/trimmingPublicData_v2.sh
+```
+
+Then follow the instructions :
+
+```
+Enter your input folder name, followed by [ENTER] :
+```
+
+```
+Enter your output folder name, followed by [ENTER] :
+```
+
+```
+Does the sequencing of your data is single end (SE) or paired end (PE) ? [SE|PE] :
+```
+
+```
+Type the number of thread(s) you want to use for trimmomatic, followed by [ENTER] :
+```
+
+```
+Does your dataset encoding is phred33 (Sanger, Illumina >= 1.8) or phred64 (Illumina < 1.8) ? [33|64] :
+```
+
+```
+Type the minimum score you want to use for trimmomatic LEADING option, followed by [ENTER] :
+```
+
+```
+Type the minimum score you want to use for trimmomatic TRAILING option, followed by [ENTER] :
+```
+
+```
+Type the minimum length you want to use for trimmomatic MINLEN option, followed by [ENTER] :
+```
+
+```
+Do you want to remove adapters from dataset ? [yes|no] :
+```
+
+```
+Type the path to the adapter file ex: /home/App/Trimmomatic-0.33/adapters/TruSeq3-SE.fa, followed by [ENTER] :
+```
+
+```
+Do you want to change the ILLUMINACLIP settings ? (Default : ILLUMINACLIP:adapterFile:2:30:10) [yes|no] :
+```
+
+
+
 ###### alignPublicData
 
 ###### processWGBSdata
