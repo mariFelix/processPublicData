@@ -23,6 +23,7 @@ downloadPublicData_v.2.2 :
 * FastQC
 
 trimmingPublicData_v2 :
+
 * Trimmomatic-0.33
 * FastQC
 
