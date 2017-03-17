@@ -144,8 +144,8 @@ Quality check done for file SRRXXXXXXX.fastq.gz !
 When the file(s) is/are processed the following message will appear :
 
 ```
+--------------------------------------------------------
 Trimmomatic trimming and FastQC analysis done in X hours X minutes X seconds !
-
 If the quality check analysis is not right, you can re-run this script with other parameters ! :)
 --------------------------------------------------------
 [TIP] : You will may want to change the minimum score for LEADING or TRAILING option.
