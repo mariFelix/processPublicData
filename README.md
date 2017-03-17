@@ -68,10 +68,13 @@ Dowloading SRRXXXXXXX to fastq.gz format...
 ```
 
 ```
+Dataset SRRXXXXXXX downloaded !"
 ```
-
-
-
+    
+```
+Quality check for file SRRXXXXXXX.fastq.gz...
+Quality check done for file SRRXXXXXXX.fastq.gz
+```
 
 
 
