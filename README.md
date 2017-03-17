@@ -208,6 +208,51 @@ You can now visually inspect your data, do the normalization or do the peakcalli
 
 ###### processWGBSdata
 
+To run the scripts do :
+
+```
+./processWGBSdata.sh
+```
+
+Then follow the instructions :
+
+```
+Enter your input folder name, followed by [ENTER] :
+```
+
+```
+Enter your output folder name, followed by [ENTER] :
+```
+
+```
+Enter path to the folder where the Bisulfite_Genome folder is, followed by [ENTER] :
+```
+
+```
+Enter path to the folder where Bowtie2 is (ex: /usr/local/software/bowtie2-2.2.9), followed by [ENTER] :
+```
+
+```
+Type the number of thread(s) you want to use for Bowtie2 (x4), followed by [ENTER] :
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+
+
+
+
+
 
 
 ## OUTPUT FILES
