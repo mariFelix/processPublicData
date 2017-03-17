@@ -141,7 +141,7 @@ Quality check for file SRRXXXXXXX.fastq.gz...
 Quality check done for file SRRXXXXXXX.fastq.gz !
 ```
 
-When the file(s) processed the following message will appear :
+When the file(s) is/are processed the following message will appear :
 
 ```
 Trimmomatic trimming and FastQC analysis done in X hours X minutes X seconds !
