@@ -243,10 +243,6 @@ When the file(s) is/are processed the following message will appear :
 Bismark alignment, sorting, indexing and methExtract done in X hours X minutes X seconds !
 ```
 
-## OUTPUT FILES
-
-
-
 ## HOW IT WORKS
 
 
