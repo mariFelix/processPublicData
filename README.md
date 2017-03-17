@@ -13,7 +13,7 @@ Processing public datasets.
 
 ## WARNINGS
 
-
+These scripts are provided "as is", without warranty of any kind. You can redistribute and/or modify it under the terms of the GNU General Public License v3.
 
 ## SOFTWARE DEPENDENCIES
 
