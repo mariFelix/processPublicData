@@ -201,9 +201,10 @@ Index file SRRXXXXXXX_sorted-kX.bam.bai created !
 When the file(s) is/are processed the following message will appear :
 
 ```
-
+--------------------------------------------------------
+Bowtie2 alignment, sorting and indexing done in X hours X minutes X seconds !
+You can now visually inspect your data, do the normalization or do the peakcalling with MACS2 ! :)
 ```
-
 
 ###### processWGBSdata
 
