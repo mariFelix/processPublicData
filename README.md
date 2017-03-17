@@ -41,6 +41,8 @@ processWGBSdata :
 
 ## HOW TO USE IT
 
+###### downloadPublicData_v2.2
+
 To run the scripts do :
 
 ```
@@ -79,6 +81,11 @@ Quality check done for file SRRXXXXXXX.fastq.gz
 ...
 ```
 
+###### trimmingPublicData_v2
+
+###### alignPublicData
+
+###### processWGBSdata
 
 
 
