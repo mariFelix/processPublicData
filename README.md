@@ -206,6 +206,8 @@ Bowtie2 alignment, sorting and indexing done in X hours X minutes X seconds !
 You can now visually inspect your data, do the normalization or do the peakcalling with MACS2 ! :)
 ```
 
+*** The version 2 is adapted for iMAC.
+
 ###### processWGBSdata
 
 To run the scripts do :
