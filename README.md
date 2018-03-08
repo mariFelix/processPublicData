@@ -71,7 +71,7 @@ When the file(s) is/are downloaded the following message will appear :
 
 ```
 Dowloading SRRXXXXXXX to fastq.gz format...
-Dataset SRRXXXXXXX downloaded !"
+Dataset SRRXXXXXXX downloaded !
 ...
 ```
     
