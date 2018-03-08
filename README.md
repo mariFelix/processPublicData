@@ -247,4 +247,4 @@ Bismark alignment, sorting, indexing and methExtract done in X hours X minutes X
 
 ## HOW IT WORKS
 
-
+The first script takes as an input the SRRXXXXXXX names of the datasets from the SRA database and download them into fastq.gz format. It also performs the FastQC quality check. The second script does the trimming with Trimmomatic with the user's input parameters. The third script performs the alignment using Bowite2 with the user's input parameters. The last script is used instead of the third script when the data are a bisulfite experiment instead of a ChIP-seq experiment. It aligns the data with Bismark.
