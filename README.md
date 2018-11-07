@@ -160,7 +160,7 @@ If the quality check analysis is not right, you can re-run this script with othe
 To run the scripts do :
 
 ```
-./alignPublicData.sh
+./alignPublicData_v2.sh
 ```
 
 Then follow the instructions :
@@ -205,8 +205,6 @@ When the file(s) is/are processed the following message will appear :
 Bowtie2 alignment, sorting and indexing done in X hours X minutes X seconds !
 You can now visually inspect your data, do the normalization or do the peakcalling with MACS2 ! :)
 ```
-
-*** The version 2 is adapted for iMAC.
 
 ###### processWGBSdata
 
