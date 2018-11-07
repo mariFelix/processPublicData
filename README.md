@@ -211,7 +211,7 @@ You can now visually inspect your data, do the normalization or do the peakcalli
 To run the scripts do :
 
 ```
-./processWGBSdata.sh
+./processWGBSdata_v3.sh
 ```
 
 Then follow the instructions :
