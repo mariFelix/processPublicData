@@ -233,6 +233,10 @@ Enter path to the folder where Bowtie2 is (ex: /usr/local/software/bowtie2-2.2.9
 ```
 
 ```
+Does the sequencing of your data is single end (SE) or paired end (PE) ? [SE|PE] :
+```
+
+```
 Type the number of thread(s) you want to use for Bowtie2 (x4), followed by [ENTER] :
 ```
 
